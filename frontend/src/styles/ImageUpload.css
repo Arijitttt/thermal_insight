@@ -1,0 +1,68 @@
+  
+  .image-upload-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #007acc;
+  }
+  
+  .description {
+    font-size: 1rem;
+    margin: 10px 0 20px;
+    color: #333;
+  }
+  
+  .form {
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005f99;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .result-container {
+    text-align: left;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  
